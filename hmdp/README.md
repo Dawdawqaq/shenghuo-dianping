@@ -1,4 +1,4 @@
-# 代码使用说明(本项目来自b站[黑马程序员](https://space.bilibili.com/37974444)[redis教程](https://www.bilibili.com/video/BV1cr4y1671t)，仅供参考)
+# （自用）代码使用说明(本项目来自b站[黑马程序员](https://space.bilibili.com/37974444)[redis教程](https://www.bilibili.com/video/BV1cr4y1671t)，仅供参考)
 
 项目代码包含2个分支：
 - master : 主分支，包含完整版代码，作为大家的编码参考使用
@@ -13,7 +13,7 @@
 ## 1.下载
 克隆完整项目
 ```git
-git clone https://github.com/cs001020/hmdp.git
+https://github.com/Dawdawqaq/shenghuo-dianping.git
 ```
 切换分支
 ```git
