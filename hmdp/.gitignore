@@ -1,0 +1,24 @@
+# IDE配置（IDEA/Eclipse）
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# 编译产物（体积大，无需上传）
+target/
+classes/
+build/
+
+# 敏感配置文件（替换成占位符后再上传）
+src/main/resources/application-dev.yml
+src/main/resources/application-prod.yml
+
+# 日志/临时文件
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# 依赖包（Maven会自动下载，无需上传）
+*.jar
+node_modules/
